@@ -1,0 +1,2 @@
+# StakedAVANET.sol
+stakingswap contract
